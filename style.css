@@ -1,0 +1,38 @@
+.baskervville-sc-regular {
+    font-family: "Baskervville SC", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}  
+h1{
+    margin: 0%;
+}
+#red_stripe_top{
+    height: 100px;
+    width: 500px;
+    background-color: brown;
+    position:fixed;
+    top:100px;
+}
+#blue_stripe{
+    height: 200px;
+    width: 500px;
+    background-color: #2c2c70;
+    position:absolute;
+    top:200px;
+}
+#red_stripe_bottom{
+    height: 100px;
+    width: 500px;
+    background-color: brown;
+    position:absolute;
+    top:400px;
+}
+#white_circle{
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    background-color: aliceblue;
+    position:absolute;
+    top:225px;
+    left:170px;
+}
